@@ -5,7 +5,7 @@ import "leaflet/dist/leaflet.css";
 import "./App.css";
 
 const colors = ["#ff3b30", "#007aff", "#34c759"]; // Fixed array footprint for 3 targets
-const BACKEND_URL = "https://live-tracker-backend.onrender.com"; 
+const BACKEND_URL = "https://live-tracker-backend-nj1r.onrender.com"; 
 
 function App() {
     const [googleLink, setGoogleLink] = useState("");
