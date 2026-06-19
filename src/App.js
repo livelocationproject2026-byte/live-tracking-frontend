@@ -143,7 +143,7 @@ function App() {
             } catch (err) {
                 console.error("Interval sync failure:", err);
             }
-        }, 5000);
+        }, 10000);
 
         setTracking(prev => ({ ...prev, [person.id]: interval }));
         alert(`${person.name} Live Tracking System Engaged`);
