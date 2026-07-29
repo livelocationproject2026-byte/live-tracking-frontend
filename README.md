@@ -33,7 +33,7 @@ This project demonstrates full-stack web development, REST API integration, inte
 
 ### ⚙️ Backend Repository
 
-👉 YOUR_BACKEND_REPO_URL
+👉 [YOUR_BACKEND_REPO_URL](https://github.com/livelocationproject2026-byte/live-tracker-backend.git)
 
 ---
 
@@ -86,7 +86,7 @@ images/home.png
 ```
 
 ```markdown
-![Home Page](images/home.png)
+![Home Page](home.png)
 ```
 
 ---
@@ -98,7 +98,7 @@ images/map.png
 ```
 
 ```markdown
-![Map](images/map.png)
+![Map](map.png)
 ```
 
 ---
@@ -110,7 +110,7 @@ images/database.png
 ```
 
 ```markdown
-![Database](images/database.png)
+![Database](database.png)
 ```
 
 ---
