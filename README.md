@@ -120,7 +120,7 @@ images/database.png
 ## Clone Frontend Repository
 
 ```bash
-git clone YOUR_FRONTEND_REPO_URL
+git clone (https://github.com/livelocationproject2026-byte/live-tracker-backend.git)
 ```
 
 Move into the project folder
