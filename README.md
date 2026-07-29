@@ -86,7 +86,7 @@ images/home.png
 ```
 
 ```markdown
-![Home Page](home.png)
+![Home Page](src/home.png)
 ```
 
 ---
@@ -98,7 +98,7 @@ images/map.png
 ```
 
 ```markdown
-![Map](map.png)
+![Map](src/map.png)
 ```
 
 ---
@@ -110,7 +110,7 @@ images/database.png
 ```
 
 ```markdown
-![Database](database.png)
+![Database](src/database.png)
 ```
 
 ---
