@@ -79,39 +79,37 @@ This project demonstrates full-stack web development, REST API integration, inte
 
 ## Home Page
 
-> Add a screenshot in the **images** folder.
+![Home Page](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/home.png)
 
 ```text
 home.png
 ```
 
-```markdown
-![Home Page](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/home.png)
-```
+
 
 ---
 
 ## Location Tracking
 
+![Map](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/map.png)
+
 ```text
 map.png
 ```
 
-```markdown
-![Map](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/map.png)
-```
+
 
 ---
 
 ## MongoDB Database
 
+![Database](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/database.png)
+
 ```text
 database.png
 ```
 
-```markdown
-![Database](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/database.png)
-```
+
 
 ---
 
