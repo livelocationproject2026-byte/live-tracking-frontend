@@ -82,11 +82,11 @@ This project demonstrates full-stack web development, REST API integration, inte
 > Add a screenshot in the **images** folder.
 
 ```text
-images/home.png
+home.png
 ```
 
 ```markdown
-![Home Page](src/home.png)
+![Home Page](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/264c25ac993c9a3db4110fba87ae27699b9190f0/home.png)
 ```
 
 ---
@@ -94,11 +94,11 @@ images/home.png
 ## Location Tracking
 
 ```text
-images/map.png
+map.png
 ```
 
 ```markdown
-![Map](src/map.png)
+![Map](map.png)
 ```
 
 ---
@@ -106,11 +106,11 @@ images/map.png
 ## MongoDB Database
 
 ```text
-images/database.png
+database.png
 ```
 
 ```markdown
-![Database](src/database.png)
+![Database](database.png)
 ```
 
 ---
