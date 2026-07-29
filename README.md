@@ -1,70 +1,255 @@
-# Getting Started with Create React App
+# 📍 Live Location Tracking System (Frontend)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb)
+![Leaflet](https://img.shields.io/badge/Leaflet-Maps-brightgreen)
+![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel)
+![Render](https://img.shields.io/badge/Backend-Render-46E3B7?logo=render)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# 📖 Project Overview
 
-### `npm start`
+The **Live Location Tracking System** is a full-stack web application that allows users to submit a Google Maps location link and visualize the extracted coordinates on an interactive map. The frontend is developed using **React.js** and **Leaflet.js**, while the backend is built with **Node.js**, **Express.js**, and **MongoDB Atlas**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project demonstrates full-stack web development, REST API integration, interactive maps, and cloud deployment.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+# 🚀 Live Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🌐 Frontend (Vercel)
 
-### `npm run build`
+👉 live-tracking-frontend-bxd5i4tg2-live-location-s-projects.vercel.app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🔗 Backend API (Render)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👉 https://live-tracker-backend-nj1r.onrender.com/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+# 📂 Repositories
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### ⚙️ Backend Repository
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+👉 YOUR_BACKEND_REPO_URL
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# ✨ Features
 
-## Learn More
+- 📍 Submit Google Maps location links
+- 🗺️ Display extracted location on interactive Leaflet map
+- 📌 Dynamic map marker updates
+- 💾 Store location data in MongoDB Atlas
+- 🔄 REST API integration with Express.js
+- 📱 Responsive user interface
+- ☁️ Cloud deployment using Vercel and Render
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 🛠️ Tech Stack
 
-### Code Splitting
+## Frontend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- React.js
+- React Leaflet
+- Leaflet.js
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-### Analyzing the Bundle Size
+## Backend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
+- CORS
 
-### Making a Progressive Web App
+## Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Vercel (Frontend)
+- Render (Backend)
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# 📸 Screenshots
 
-### Deployment
+## Home Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+> Add a screenshot in the **images** folder.
 
-### `npm run build` fails to minify
+```text
+images/home.png
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```markdown
+![Home Page](images/home.png)
+```
+
+---
+
+## Location Tracking
+
+```text
+images/map.png
+```
+
+```markdown
+![Map](images/map.png)
+```
+
+---
+
+## MongoDB Database
+
+```text
+images/database.png
+```
+
+```markdown
+![Database](images/database.png)
+```
+
+---
+
+# ⚙️ Installation
+
+## Clone Frontend Repository
+
+```bash
+git clone YOUR_FRONTEND_REPO_URL
+```
+
+Move into the project folder
+
+```bash
+cd live-tracker-frontend
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start development server
+
+```bash
+npm start
+```
+
+The application will run on
+
+```
+http://localhost:3000
+```
+
+---
+
+# 🔗 Backend Setup
+
+Clone the backend repository
+
+```bash
+git clone YOUR_BACKEND_REPO_URL
+```
+
+Install packages
+
+```bash
+npm install
+```
+
+Run the backend server
+
+```bash
+npm start
+```
+
+The backend runs on
+
+```
+http://localhost:5000
+```
+
+Live API
+
+```
+https://live-tracker-backend-nj1r.onrender.com/
+```
+
+---
+
+# 📁 Project Structure
+
+```
+live-tracker-frontend/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+│
+├── package.json
+├── README.md
+└── .gitignore
+```
+
+---
+
+# 🔄 Workflow
+
+```
+User
+   │
+   ▼
+React Frontend
+   │
+   ▼
+Express API
+   │
+   ▼
+MongoDB Atlas
+   │
+   ▼
+Leaflet Map
+```
+
+---
+
+# 🌟 Future Improvements
+
+- User Authentication
+- Live GPS Tracking
+- Real-time Socket.IO Updates
+- Route History
+- Geofencing
+- Multiple User Tracking
+- Mobile Responsive UI
+- Dark Mode
+
+---
+
+# 👩‍💻 Author
+
+**Esha Shaw**
+
+🔗 LinkedIn
+
+https://www.linkedin.com/in/esha-shaw-956386281
+
+🐙 GitHub
+
+https://github.com/Esha0Shaw
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, please give this repository a ⭐ on GitHub.
