@@ -86,7 +86,7 @@ home.png
 ```
 
 ```markdown
-![Home Page](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/main/home.png)
+![Home Page](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/home.png)
 ```
 
 ---
@@ -98,7 +98,7 @@ map.png
 ```
 
 ```markdown
-![Map](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/main/map.png)
+![Map](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/map.png)
 ```
 
 ---
@@ -110,7 +110,7 @@ database.png
 ```
 
 ```markdown
-![Database](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/main/database.png)
+![Database](https://github.com/livelocationproject2026-byte/live-tracking-frontend/blob/3663e2ef1688deb369f3a961b336b912fbba89aa/database.png)
 ```
 
 ---
