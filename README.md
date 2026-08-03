@@ -33,7 +33,7 @@ This project demonstrates full-stack web development, REST API integration, inte
 
 ### ⚙️ Backend Repository
 
-👉 [YOUR_BACKEND_REPO_URL](https://github.com/livelocationproject2026-byte/live-tracker-backend.git)
+👉 [MY_BACKEND_REPO_URL](https://github.com/livelocationproject2026-byte/live-tracker-backend.git)
 
 ---
 
@@ -152,7 +152,7 @@ http://localhost:3000
 Clone the backend repository
 
 ```bash
-git clone YOUR_BACKEND_REPO_URL
+git clone MY_BACKEND_REPO_URL
 ```
 
 Install packages
