@@ -234,19 +234,7 @@ Leaflet Map
 
 ---
 
-# 👩‍💻 Author
 
-**Esha Shaw**
-
-🔗 LinkedIn
-
-https://www.linkedin.com/in/esha-shaw-956386281
-
-🐙 GitHub
-
-https://github.com/Esha0Shaw
-
----
 
 # ⭐ Support
 
